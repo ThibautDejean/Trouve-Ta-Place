@@ -16,3 +16,4 @@ The website "Trouve Ta Place" is a site that allows motorists to find the neares
 
 
 Additionally, we allow the user to customize their search, especially if they have specific parking constraints. Finally, our site includes a login feature that allows the user to save their search preferences as well as their favorite addresses.
+
