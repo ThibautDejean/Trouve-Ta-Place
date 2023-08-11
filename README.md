@@ -1,6 +1,4 @@
-# Trouve-Ta-Place
-
-🅿️ Trouve Ta Place 🅿️
+# 🅿️ Trouve Ta Place 🅿️
 
 
 This project was completed during my first year as an engineering student at the École Centrale de Lyon. 
