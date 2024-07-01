@@ -1,6 +1,7 @@
 var msg='<?php echo $message;?>';
 alert(msg);
 
+
 let map;
 
 function initMap() {
